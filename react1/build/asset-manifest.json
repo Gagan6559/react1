@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62a74e47.css",
+    "main.js": "/static/js/main.f72c0eb7.js",
+    "static/media/c1.jpg": "/static/media/c1.cc5b66d9571a1ef94e95.jpg",
+    "static/media/c3.jpg": "/static/media/c3.f61ba77acaca703352f8.jpg",
+    "static/media/c2.jpg": "/static/media/c2.a7c1268d671fa8b53266.jpg",
+    "static/media/map.png": "/static/media/map.70db55c2d12e3c06de02.png",
+    "static/media/banimg.png": "/static/media/banimg.5a819a34444855527f51.png",
+    "static/media/contentimg2.png": "/static/media/contentimg2.83324adf6448cc20b6a9.png",
+    "static/media/sparepartsupply.png": "/static/media/sparepartsupply.18dd634294d4292d3544.png",
+    "static/media/dentingpainting.png": "/static/media/dentingpainting.41bdcca46270f149f9bf.png",
+    "static/media/roadsideassistance.png": "/static/media/roadsideassistance.b198c89a55a0bfc60d03.png",
+    "static/media/insuranceclaimfacility.png": "/static/media/insuranceclaimfacility.c3dfcd13750871ec1358.png",
+    "static/media/perodicmaintainance.png": "/static/media/perodicmaintainance.a9dd9b3998693978ed76.png",
+    "static/media/mechanicalrepairwork.png": "/static/media/mechanicalrepairwork.ebd0fe63ca02c510a8a8.png",
+    "static/media/evcharging.png": "/static/media/evcharging.e4527c5eeadd02b97bfd.png",
+    "static/media/generalservices.png": "/static/media/generalservices.6681830848aff2f26bf9.png",
+    "static/media/salvage.png": "/static/media/salvage.2bcd6b4945476b7b4256.png",
+    "static/media/logo.png": "/static/media/logo.83b5b5af8bd3afb0f04e.png",
+    "static/media/evvehiclerepair.png": "/static/media/evvehiclerepair.66a57f3335da337164eb.png",
+    "static/media/applicationicon.png": "/static/media/applicationicon.474c8d6190107f0603fb.png",
+    "static/media/datsunlogo.jpg": "/static/media/datsunlogo.729c956dc3dfbc5cd040.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.62a74e47.css.map": "/static/css/main.62a74e47.css.map",
+    "main.f72c0eb7.js.map": "/static/js/main.f72c0eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a74e47.css",
+    "static/js/main.f72c0eb7.js"
+  ]
+}
